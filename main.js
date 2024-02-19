@@ -7,3 +7,4 @@ var obj = {
     course: "Generative Ai"
 };
 console.log(obj);
+console.log("as salam o Aliqum");

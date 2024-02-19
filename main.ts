@@ -14,3 +14,7 @@ var obj = {
 }
 
 console.log(obj);
+
+
+
+console.log("as salam o Aliqum");
